@@ -1,0 +1,39 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ALLOWED_HOSTS	../mb_project/settings.py	/^ALLOWED_HOSTS = []$/;"	kind:variable	line:28
+AUTH_PASSWORD_VALIDATORS	../mb_project/settings.py	/^AUTH_PASSWORD_VALIDATORS = [$/;"	kind:variable	line:87
+BASE_DIR	../mb_project/settings.py	/^BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))$/;"	kind:variable	line:16
+DATABASES	../mb_project/settings.py	/^DATABASES = {$/;"	kind:variable	line:76
+DEBUG	../mb_project/settings.py	/^DEBUG = True$/;"	kind:variable	line:26
+INSTALLED_APPS	../mb_project/settings.py	/^INSTALLED_APPS = [$/;"	kind:variable	line:33
+LANGUAGE_CODE	../mb_project/settings.py	/^LANGUAGE_CODE = 'en-us'$/;"	kind:variable	line:106
+MIDDLEWARE	../mb_project/settings.py	/^MIDDLEWARE = [$/;"	kind:variable	line:42
+PostsConfig	../posts/apps.py	/^class PostsConfig(AppConfig):$/;"	kind:class	line:4
+ROOT_URLCONF	../mb_project/settings.py	/^ROOT_URLCONF = 'mb_project.urls'$/;"	kind:variable	line:52
+STATIC_URL	../mb_project/settings.py	/^STATIC_URL = '\/static\/'$/;"	kind:variable	line:120
+TEMPLATES	../mb_project/settings.py	/^TEMPLATES = [$/;"	kind:variable	line:54
+TIME_ZONE	../mb_project/settings.py	/^TIME_ZONE = 'UTC'$/;"	kind:variable	line:108
+USE_I18N	../mb_project/settings.py	/^USE_I18N = True$/;"	kind:variable	line:110
+USE_L10N	../mb_project/settings.py	/^USE_L10N = True$/;"	kind:variable	line:112
+USE_TZ	../mb_project/settings.py	/^USE_TZ = True$/;"	kind:variable	line:114
+WSGI_APPLICATION	../mb_project/settings.py	/^WSGI_APPLICATION = 'mb_project.wsgi.application'$/;"	kind:variable	line:70
+__init__.py	../mb_project/__init__.py	1;"	kind:file	line:1
+__init__.py	../posts/__init__.py	1;"	kind:file	line:1
+__init__.py	../posts/migrations/__init__.py	1;"	kind:file	line:1
+admin.py	../posts/admin.py	1;"	kind:file	line:1
+application	../mb_project/wsgi.py	/^application = get_wsgi_application()$/;"	kind:variable	line:16
+apps.py	../posts/apps.py	1;"	kind:file	line:1
+main	../manage.py	/^def main():$/;"	kind:function	line:7
+manage.py	../manage.py	1;"	kind:file	line:1
+models.py	../posts/models.py	1;"	kind:file	line:1
+name	../posts/apps.py	/^    name = 'posts'$/;"	kind:variable	line:5
+settings.py	../mb_project/settings.py	1;"	kind:file	line:1
+tests.py	../posts/tests.py	1;"	kind:file	line:1
+urlpatterns	../mb_project/urls.py	/^urlpatterns = [$/;"	kind:variable	line:19
+urls.py	../mb_project/urls.py	1;"	kind:file	line:1
+views.py	../posts/views.py	1;"	kind:file	line:1
+wsgi.py	../mb_project/wsgi.py	1;"	kind:file	line:1
